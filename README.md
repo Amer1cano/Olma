@@ -1,0 +1,2 @@
+# Olma
+Olma sayti boshlandi
